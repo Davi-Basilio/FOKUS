@@ -3,7 +3,6 @@
   <h3 align="center">Ótimo para evitar procastinação e desvio de atenção para coisas inúteis enquanto faz sua tarefa.</h3>
 </div>
 
-## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
   <a href="https://skillicons.dev" target="_blank">
